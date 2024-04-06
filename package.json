@@ -1,0 +1,21 @@
+{
+  "name": "resumescan",
+  "version": "1.0.0",
+  "description": "![Python](https://img.shields.io/badge/Python-3.9-blueviolet)\r ![Framework](https://img.shields.io/badge/Framework-Flask-red)\r ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)\r ![API](https://img.shields.io/badge/API-Indeed-blue)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinungadi/Jobox-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinungadi/Jobox-Project/issues"
+  },
+  "homepage": "https://github.com/sinungadi/Jobox-Project#readme"
+}
